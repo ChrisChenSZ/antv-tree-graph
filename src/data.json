@@ -1,0 +1,36 @@
+[
+  {
+    "title": "A1",
+    "children": [
+      {
+        "title": "children1children1children1children1children1children1",
+        "data": {
+          "id": "children1"
+        }
+      },
+      {
+        "title": "children2children2children2children2children2children2",
+        "data": {
+          "id": "children2"
+        }
+      }
+    ]
+  },
+  {
+    "title": "A2",
+    "children": [
+      {
+        "title": "children1children1children1children1children1children1",
+        "data": {
+          "id": "children1"
+        }
+      },
+      {
+        "title": "children2children2children2children2children2children2",
+        "data": {
+          "id": "children2"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "id": "0",
+    "level": 0,
+    "collapsed": false,
+    "dataType": "root",
+    "name": "主节点",
+    "anchorPoints": [
+      [
+        0,
+        0.5
+      ],
+      [
+        1,
+        0.8
+      ]
+    ],
+    "data": {
+      "node": [
+        "标准库",
+        "表：标准库",
+        "表：标准库标准库",
+        "表：标准库标准库标准库",
+        "表：标准库标准库标准库标准库",
+        "tyshxydm/统一社会信标准库标准库标准库"
+      ]
+    },
+    "disableExpandIcon": true,
+    "children": [
+      {
+        "id": "1336529001644064",
+        "fid": "0",
+        "level": 1,
+        "collapsed": false,
+        "dataType": "",
+        "name": "子节点一",
+        "disableExpandIcon": true,
+        "anchorPoints": [
+          [
+            0,
+            0.916667
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "data": {
+          "node": [
+            "标准库",
+            "表：标准库",
+            "表：标准库标准库",
+            "表：标准库标准库标准库",
+            "表：标准库标准库标准库标准库",
+            "tyshxydm/统一社会信标准库标准库标准库"
+          ],
+          "conextMenu": [
+            {
+              "name": "菜单一",
+              "data": {}
+            }
+          ],
+          "isImmediate": true
+        },
+        "children": [
+          {
+            "id": "1336534944972832",
+            "fid": "1336529001644064",
+            "level": 2,
+            "collapsed": true,
+            "dataType": "",
+            "name": "孙节点",
+            "data": {
+              "node": [
+                "标准库",
+                "表：xdfsfsufjsdfls",
+                "tyshxydm/统一社会信用…"
+              ]
+            },
+            "children": [
+              {
+                "id": "1336534944972832123",
+                "fid": "1336534944972832",
+                "level": 2,
+                "collapsed": true,
+                "dataType": "",
+                "name": "测试四",
+                "data": {
+                  "node": [
+                    "标准库",
+                    "表：xdfsfsufjsdfls",
+                    "表：xdfsfsufjsdfls",
+                    "tyshxydm/统一社会信用…"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1336528909369376",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "子节点二",
+        "conextMenu": [
+          {
+            "name": "资源表:来穗人口调查",
+            "data": {}
+          },
+          {
+            "name": "附件",
+            "data": {}
+          }
+        ],
+        "data": {
+          "node": [
+            "标准库",
+            "表：xdfsfsufjsdfls",
+            "tyshxydm/统一社会信用…"
+          ]
+        }
+      },
+      {
+        "id": "1336532740866080",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "测试",
+        "data": {
+          "node": [
+            "标准库",
+            "tyshxydm/统一社会信用…"
+          ]
+        }
+      }
+    ]
+  }
+}

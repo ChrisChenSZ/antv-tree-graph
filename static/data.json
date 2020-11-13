@@ -1,0 +1,548 @@
+{
+  "data": {
+    "id": "0",
+    "level": 0,
+    "collapsed": false,
+    "dataType": "root",
+    "name": "2020.03.12 13:03 hwx测试",
+    "data": {
+      "orderName": "2020.03.12 13:03 hwx测试",
+      "requireStateName": "已完成",
+      "serviceUsage": "2020.03.12 13:03 业务用途",
+      "predictEffect": "2020.03.12 13:03 预计应用成效",
+      "jobDesc": null,
+      "totalTaskNum": 7,
+      "finishTaskNum": 1,
+      "taskRelationNodes": [
+        {
+          "dlAssistTaskOrderId": 1336529001644064,
+          "applyResourceName": "2020.03.12 13:03 申请资源名称2",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理平台管理员",
+          "createTime": "2020-03-12 13:38:11",
+          "endTime": null,
+          "updateFrequencyName": "每周",
+          "jobDesc": "2020.03.12 13:03 需求描述2",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": [
+            {
+              "dlAssistTaskOrderId": 1336534944972832,
+              "applyResourceName": "大雄",
+              "taskStateName": "已关闭",
+              "principalDeptTopName": "系统维护公司",
+              "principalDeptName": "系统维护公司",
+              "principalFullname": "数据管理平台管理员",
+              "createTime": "2020-03-12 14:25:25",
+              "endTime": null,
+              "updateFrequencyName": "每周",
+              "jobDesc": "对对对对对对多",
+              "isImmediate": false,
+              "fileList": null,
+              "resourceCatalog": null,
+              "resourceTable": null,
+              "taskRelationNodes": null
+            }
+          ],
+          "conextMenu": []
+        },
+        {
+          "dlAssistTaskOrderId": 1336540292710432,
+          "applyResourceName": "ziyuan3",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 15:07:55",
+          "endTime": null,
+          "updateFrequencyName": "实时",
+          "jobDesc": "aa",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        },
+        {
+          "dlAssistTaskOrderId": 1336533734916128,
+          "applyResourceName": "测试水水水",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 14:15:48",
+          "endTime": null,
+          "updateFrequencyName": "每周",
+          "jobDesc": "111",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        },
+        {
+          "dlAssistTaskOrderId": 1336540221407264,
+          "applyResourceName": "ziyuan2",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 15:07:21",
+          "endTime": null,
+          "updateFrequencyName": "实时",
+          "jobDesc": "aaa",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        },
+        {
+          "dlAssistTaskOrderId": 1336541194485792,
+          "applyResourceName": "ziyuan4",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 15:15:05",
+          "endTime": null,
+          "updateFrequencyName": "实时",
+          "jobDesc": "aa",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        },
+        {
+          "dlAssistTaskOrderId": 1336528909369376,
+          "applyResourceName": "2020.03.12 13:03 申请资源名称",
+          "taskStateName": "已完成",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 13:37:27",
+          "endTime": "2020-03-12 13:40:46",
+          "updateFrequencyName": "每日",
+          "jobDesc": "2020.03.12 13:03 需求描述\n",
+          "isImmediate": true,
+          "fileList": [
+            {
+              "uid": 1336528909369376,
+              "name": "资源目录API.postman_collection.json",
+              "viewUrl": "/admin/dfs/objectcatalog/view/kA5JYNe68.json",
+              "downloadUrl": "/admin/dfs/objectcatalog/download?objectkey=kA5JYNe68",
+              "createTime": "2020-03-12 13:40:29",
+              "fileSize": 17.4,
+              "objectKey": "kA5JYNe68"
+            }
+          ],
+          "resourceCatalog": null,
+          "resourceTable": {
+            "resourceId": 1007915807110052,
+            "name": "来穗人口调查",
+            "mountType": 2,
+            "mountTypeName": "附件上传",
+            "updatePeriod": 9,
+            "updatePeriodName": "不提供",
+            "remark": null,
+            "createTime": "2020-03-12T13:39:40",
+            "createId": 770401427191147,
+            "createName": "数据管理演示",
+            "updateTime": null,
+            "updateId": null,
+            "updateName": null,
+            "flags": 1,
+            "taskId": 1336528909369376,
+            "resourceItems": null,
+            "dataSize": 0
+          },
+          "taskRelationNodes": null,
+          "conextMenu": [
+            {
+              "name": "资源表:来穗人口调查",
+              "data": {
+                "resourceId": 1007915807110052,
+                "name": "来穗人口调查",
+                "mountType": 2,
+                "mountTypeName": "附件上传",
+                "updatePeriod": 9,
+                "updatePeriodName": "不提供",
+                "remark": null,
+                "createTime": "2020-03-12T13:39:40",
+                "createId": 770401427191147,
+                "createName": "数据管理演示",
+                "updateTime": null,
+                "updateId": null,
+                "updateName": null,
+                "flags": 1,
+                "taskId": 1336528909369376,
+                "resourceItems": null,
+                "dataSize": 0,
+                "applyResourceName": "2020.03.12 13:03 申请资源名称"
+              },
+              "type": "resourceTable"
+            },
+            {
+              "name": "附件",
+              "data": {
+                "fileList": [
+                  {
+                    "uid": 1336528909369376,
+                    "name": "资源目录API.postman_collection.json",
+                    "viewUrl": "/admin/dfs/objectcatalog/view/kA5JYNe68.json",
+                    "downloadUrl": "/admin/dfs/objectcatalog/download?objectkey=kA5JYNe68",
+                    "createTime": "2020-03-12 13:40:29",
+                    "fileSize": 17.4,
+                    "objectKey": "kA5JYNe68"
+                  }
+                ],
+                "applyResourceName": "2020.03.12 13:03 申请资源名称"
+              },
+              "type": "fileList"
+            }
+          ]
+        },
+        {
+          "dlAssistTaskOrderId": 1336532740866080,
+          "applyResourceName": "测试",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 14:07:54",
+          "endTime": null,
+          "updateFrequencyName": "每周",
+          "jobDesc": "111",
+          "isImmediate": true,
+          "fileList": [],
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        }
+      ]
+    },
+    "children": [
+      {
+        "id": "1336529001644064",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "2020.03.12 13:03 申请资源名称2",
+        "data": {
+          "dlAssistTaskOrderId": 1336529001644064,
+          "applyResourceName": "2020.03.12 13:03 申请资源名称2",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理平台管理员",
+          "createTime": "2020-03-12 13:38:11",
+          "endTime": null,
+          "updateFrequencyName": "每周",
+          "jobDesc": "2020.03.12 13:03 需求描述2",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": [
+            {
+              "dlAssistTaskOrderId": 1336534944972832,
+              "applyResourceName": "测试二",
+              "taskStateName": "已关闭",
+              "principalDeptTopName": "系统维护公司",
+              "principalDeptName": "系统维护公司",
+              "principalFullname": "数据管理平台管理员",
+              "createTime": "2020-03-12 14:25:25",
+              "endTime": null,
+              "updateFrequencyName": "每周",
+              "jobDesc": "对对对对对对多",
+              "isImmediate": false,
+              "fileList": null,
+              "resourceCatalog": null,
+              "resourceTable": null,
+              "taskRelationNodes": null
+            }
+          ],
+          "conextMenu": []
+        },
+        "children": [
+          {
+            "id": "1336534944972832",
+            "fid": "1336529001644064",
+            "level": 2,
+            "collapsed": true,
+            "dataType": "",
+            "name": "测试三",
+            "data": {
+              "dlAssistTaskOrderId": 1336534944972832,
+              "applyResourceName": "测试三",
+              "taskStateName": "已关闭",
+              "principalDeptTopName": "系统维护公司",
+              "principalDeptName": "系统维护公司",
+              "principalFullname": "数据管理平台管理员",
+              "createTime": "2020-03-12 14:25:25",
+              "endTime": null,
+              "updateFrequencyName": "每周",
+              "jobDesc": "对对对对对对多",
+              "isImmediate": false,
+              "fileList": null,
+              "resourceCatalog": null,
+              "resourceTable": null,
+              "taskRelationNodes": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "1336540292710432",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "ziyuan3",
+        "data": {
+          "dlAssistTaskOrderId": 1336540292710432,
+          "applyResourceName": "ziyuan3",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 15:07:55",
+          "endTime": null,
+          "updateFrequencyName": "实时",
+          "jobDesc": "aa",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        }
+      },
+      {
+        "id": "1336533734916128",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "测试水水水",
+        "data": {
+          "dlAssistTaskOrderId": 1336533734916128,
+          "applyResourceName": "测试水水水",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 14:15:48",
+          "endTime": null,
+          "updateFrequencyName": "每周",
+          "jobDesc": "111",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        }
+      },
+      {
+        "id": "1336540221407264",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "ziyuan2",
+        "data": {
+          "dlAssistTaskOrderId": 1336540221407264,
+          "applyResourceName": "ziyuan2",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 15:07:21",
+          "endTime": null,
+          "updateFrequencyName": "实时",
+          "jobDesc": "aaa",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        }
+      },
+      {
+        "id": "1336541194485792",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "ziyuan4",
+        "data": {
+          "dlAssistTaskOrderId": 1336541194485792,
+          "applyResourceName": "ziyuan4",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 15:15:05",
+          "endTime": null,
+          "updateFrequencyName": "实时",
+          "jobDesc": "aa",
+          "isImmediate": true,
+          "fileList": null,
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        }
+      },
+      {
+        "id": "1336528909369376",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "2020.03.12 13:03 申请资源名称",
+        "data": {
+          "dlAssistTaskOrderId": 1336528909369376,
+          "applyResourceName": "2020.03.12 13:03 申请资源名称",
+          "taskStateName": "已完成",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 13:37:27",
+          "endTime": "2020-03-12 13:40:46",
+          "updateFrequencyName": "每日",
+          "jobDesc": "2020.03.12 13:03 需求描述\n",
+          "isImmediate": true,
+          "fileList": [
+            {
+              "uid": 1336528909369376,
+              "name": "资源目录API.postman_collection.json",
+              "viewUrl": "/admin/dfs/objectcatalog/view/kA5JYNe68.json",
+              "downloadUrl": "/admin/dfs/objectcatalog/download?objectkey=kA5JYNe68",
+              "createTime": "2020-03-12 13:40:29",
+              "fileSize": 17.4,
+              "objectKey": "kA5JYNe68"
+            }
+          ],
+          "resourceCatalog": null,
+          "resourceTable": {
+            "resourceId": 1007915807110052,
+            "name": "来穗人口调查",
+            "mountType": 2,
+            "mountTypeName": "附件上传",
+            "updatePeriod": 9,
+            "updatePeriodName": "不提供",
+            "remark": null,
+            "createTime": "2020-03-12T13:39:40",
+            "createId": 770401427191147,
+            "createName": "数据管理演示",
+            "updateTime": null,
+            "updateId": null,
+            "updateName": null,
+            "flags": 1,
+            "taskId": 1336528909369376,
+            "resourceItems": null,
+            "dataSize": 0
+          },
+          "taskRelationNodes": null,
+          "conextMenu": [
+            {
+              "name": "资源表:来穗人口调查",
+              "data": {
+                "resourceId": 1007915807110052,
+                "name": "来穗人口调查",
+                "mountType": 2,
+                "mountTypeName": "附件上传",
+                "updatePeriod": 9,
+                "updatePeriodName": "不提供",
+                "remark": null,
+                "createTime": "2020-03-12T13:39:40",
+                "createId": 770401427191147,
+                "createName": "数据管理演示",
+                "updateTime": null,
+                "updateId": null,
+                "updateName": null,
+                "flags": 1,
+                "taskId": 1336528909369376,
+                "resourceItems": null,
+                "dataSize": 0,
+                "applyResourceName": "2020.03.12 13:03 申请资源名称"
+              },
+              "type": "resourceTable"
+            },
+            {
+              "name": "附件",
+              "data": {
+                "fileList": [
+                  {
+                    "uid": 1336528909369376,
+                    "name": "资源目录API.postman_collection.json",
+                    "viewUrl": "/admin/dfs/objectcatalog/view/kA5JYNe68.json",
+                    "downloadUrl": "/admin/dfs/objectcatalog/download?objectkey=kA5JYNe68",
+                    "createTime": "2020-03-12 13:40:29",
+                    "fileSize": 17.4,
+                    "objectKey": "kA5JYNe68"
+                  }
+                ],
+                "applyResourceName": "2020.03.12 13:03 申请资源名称"
+              },
+              "type": "fileList"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1336532740866080",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "测试",
+        "data": {
+          "dlAssistTaskOrderId": 1336532740866080,
+          "applyResourceName": "测试",
+          "taskStateName": "已关闭",
+          "principalDeptTopName": "系统维护公司",
+          "principalDeptName": null,
+          "principalFullname": "数据管理演示",
+          "createTime": "2020-03-12 14:07:54",
+          "endTime": null,
+          "updateFrequencyName": "每周",
+          "jobDesc": "111",
+          "isImmediate": true,
+          "fileList": [],
+          "resourceCatalog": null,
+          "resourceTable": null,
+          "taskRelationNodes": null,
+          "conextMenu": []
+        }
+      },
+      {
+        "id": "task",
+        "fid": "0",
+        "level": 1,
+        "collapsed": false,
+        "dataType": "",
+        "name": "新增协作任务",
+        "data": {
+          "applyResourceName": "新增协作任务",
+          "dlAssistTaskOrderId": "task",
+          "isImmediate": false
+        }
+      }
+    ]
+  }
+}

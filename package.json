@@ -1,0 +1,49 @@
+{
+  "name": "antv-tree-graph",
+  "version": "0.0.1",
+  "description": "a base in G6 tree graph module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server",
+    "build": "webpack --env prod "
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.6.4",
+    "axios": "^0.19.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.0.4",
+    "css-loader": "^3.2.0",
+    "express": "^4.17.1",
+    "file-loader": "^4.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.12.0",
+    "normalize.css": "^8.0.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "ts-loader": "^8.0.6",
+    "typescript": "^4.0.3",
+    "url-loader": "^2.2.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "@antv/g-base": "^0.5.1",
+    "@antv/g6": "^3.8.1",
+    "insert-css": "^2.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisChenSZ/antv-tree-graph.git"
+  },
+  "author": "ChrisChen",
+  "license": "ISC"
+}

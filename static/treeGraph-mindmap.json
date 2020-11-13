@@ -1,0 +1,72 @@
+{
+  "data": {
+    "id": "0",
+    "level": 0,
+    "collapsed": false,
+    "dataType": "root",
+    "name": "测试1",
+    "data": {},
+    "disableExpandIcon": true,
+    "children": [
+      {
+        "id": "1336529001644064",
+        "fid": "0",
+        "level": 1,
+        "collapsed": false,
+        "dataType": "",
+        "name": "申请资源名称1",
+        "conextMenu": [],
+        "disableExpandIcon": true,
+        "data": {
+          "isImmediate": true
+        }
+      },
+      {
+        "id": "1336528909369376",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "申请资源名称2",
+        "conextMenu": [
+          {
+            "name": "资源表:来穗人口调查",
+            "data": {}
+          },
+          {
+            "name": "附件",
+            "data": {}
+          }
+        ],
+        "data": {}
+      },
+      {
+        "id": "1336532740866080",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "测试1-1",
+        "data": {}
+      },
+      {
+        "id": "1336532740866080",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "测试1-2",
+        "data": {}
+      },
+      {
+        "id": "1336532740866080",
+        "fid": "0",
+        "level": 1,
+        "collapsed": true,
+        "dataType": "",
+        "name": "测试1-3",
+        "data": {}
+      }
+    ]
+  }
+}

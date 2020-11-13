@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    // "rootDir": "./",
+    // "module": "es6",
+    "declaration": true,
+    "sourceMap": true,
+    // "noImplicitAny": true,
+    "target": "es5",
+    // "outDir": "lib",
+    // "jsx": "react",
+    // "allowJs": true,
+    // "importHelpers": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true, // esModuleInterop选项的作用是支持使用import d from 'cjs'的方式引入commonjs包。
+    // "lib": ["esnext", "dom"],
+    // "types": ["jest"]
+  },
+  "include": [
+    "examples/**/*",
+    "src/**/*"
+  ],
+  "exclude": [
+    // "node_modules",
+    "**/*.spec.ts"
+  ]
+}
