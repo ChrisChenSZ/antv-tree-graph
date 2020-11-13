@@ -58,10 +58,10 @@ module.exports = [
       libraryExport: 'default'
     },
     optimization: {
-      splitChunks: {
-        name: "commons",
-        chunks: 'all'
-      }
+      // splitChunks: {
+      //   name: "commons",
+      //   chunks: 'all'
+      // }
     },
     plugins: [
       new CleanWebpackPlugin(),
